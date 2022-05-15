@@ -55,3 +55,38 @@ button:hover{
     border-radius: 5px;
     transition: background 0.5s;
 }
+.square{
+    width:30%;
+    margin:1.66%;
+    background-color:rgb(0, 0, 0);
+    float:left;
+    height:40%;
+    border-radius:100px;
+    padding-bottom:30%;
+    transition: background 1s;
+}
+.container{
+    
+    margin:20px auto;
+    max-width: 600px;
+}
+p{
+    color:rgb(255, 255, 255);
+    text-align: center;
+   
+    font-size: 34px;
+}
+.message{
+    font-weight: 900;
+    padding-top: 8px;
+    font-size:30px;
+    color:rgb(3, 149, 3);
+}
+.selected{
+    background-color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+.non{
+    display: none;
+
+}
