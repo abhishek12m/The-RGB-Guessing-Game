@@ -98,7 +98,7 @@ function colorarray()
 }
 
 
-console.log(colors);
+//console.log(colors);
 
 function inset()
 {
